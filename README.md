@@ -1,7 +1,7 @@
 # Being Patient(s)
 Submission per la [Fireside Jam 2022](https://itch.io/jam/fireside-jam-2022) su Itch, 2022
 
-###Il progetto
+### Il progetto
 > E' una verità universalmente riconosciuta che i medici non abbiano una buona calligrafia.
 
 In *Being Patient(s)* il giocatore deve riuscire a dare ai pazienti le medicine giuste basandosi sulle ricette scritte dai loro dottori, cercando di sbagliare meno di tre volte!
