@@ -10,7 +10,8 @@ In *Being Patient(s)* il giocatore deve riuscire a dare ai pazienti le medicine 
 - Unity e Visual Studio Code;
 - Adobe Illustrator, Canva e Gimp per le sprites;
 - Bfxr e [AudioMass](https://audiomass.co/) per creare i suoni presenti nel gioco;
-- [OpenDyslexic](https://opendyslexic.org/) come font.
+- [OpenDyslexic](https://opendyslexic.org/) come font;
+- Tavoletta grafica per i testi scritti a mano.
 
 ### Contenuto della repository
 - File *README.md*;
