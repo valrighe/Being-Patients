@@ -13,10 +13,6 @@ In *Being Patient(s)* il giocatore deve riuscire a dare ai pazienti le medicine 
 - [OpenDyslexic](https://opendyslexic.org/) come font;
 - Tavoletta grafica per i testi scritti a mano.
 
-### Contenuto della repository
-- File *README.md*;
-- Cartella *Doctor'sNotes* con il progetto.
-
 ### Autore
 Il materiale grafico, audio e video è stato realizzato interamente da me.
 
